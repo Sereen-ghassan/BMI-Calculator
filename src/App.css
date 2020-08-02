@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.content {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: #f0f5f9;
+}
+
+.renderBMI {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+}
